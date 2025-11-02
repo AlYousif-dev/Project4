@@ -1,6 +1,14 @@
 /**
  * Represents Management Company Object
- *
+ *Class: CMSC203 CRN 21787 
+ *Program: Assignment #4 
+ *Instructor: Gary Thai 
+ *Summary of Description: Definition for a management class. Variables
+ * includes name of the management company, taxID, management fee, an array containing their properties,
+ * a plot that represents the companies plot, and the number of properties they have.
+ *Due Date: 11/3/2025  
+ *Integrity Pledge: I pledge that I have completed the programming assignment independently. 
+ *I have not copied the code from a student or any source. 
  * @author Yousif Aluobaidy
  */
 public class ManagementCompany {

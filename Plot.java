@@ -1,6 +1,11 @@
 /**
- * This class represents a Plot object.
- *
+ *This class represents a Plot object.
+ *Class: CMSC203 CRN 21787 
+ *Program: Assignment #4 
+ *Instructor: Gary Thai 
+ *Due Date: 11/3/2025  
+ *Integrity Pledge: I pledge that I have completed the programming assignment independently. 
+ *I have not copied the code from a student or any source. 
  * @author Yousif Aluobaidy
  */
 public class Plot {
